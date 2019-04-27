@@ -1,0 +1,1 @@
+ magick convert fox1_10.jpg  -font Arial -pointsize 18 -draw "gravity south fill black  text 0,12 '@Majid Momeni-Moghaddam, Stylized by: M. Amintoosi' fill white  text 1,11 '@Majid Momeni-Moghaddam, Stylized by: M. Amintoosi' " wmark_text_drawn.jpg
