@@ -1,4 +1,6 @@
 Fast Style Transfer, <br>Paper: <a href="https://arxiv.org/abs/1808.04537">Learning Linear Transformations for Fast Arbitrary Style Transfer</a>  by: Xueting Li, Sifei Liu, Jan Kautz, Ming-Hsuan Yang
+<br>
+<br>
 <br>M.Amintoosi 
 <br> Fox photoes are copyrighted by @Majid Momeni-Moghaddam
 <br><table  align="center" border="1">
